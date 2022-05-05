@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation Activity</string>
+    <string name="general.button.timer">"%d"</string>
+    <string name="level_acheived">Level achieved</string>
+    <string name="get_cert">Get my certificate</string>
+    <string name="error_text">Error loading progress</string>
+</resources>
